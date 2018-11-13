@@ -9,8 +9,5 @@
         <module name="ProcurementService" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ProcurementService" target="1.6" />
-    </bytecodeTargetLevel>
   </component>
 </project>
