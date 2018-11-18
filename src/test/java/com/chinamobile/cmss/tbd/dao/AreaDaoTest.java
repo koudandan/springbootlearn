@@ -29,7 +29,7 @@ public class AreaDaoTest {
     public void insertTest() throws Exception{
 
         Area area = new Area();
-        area.setAreaName("科技城测试koudandan");
+        area.setAreaName("自卖自夸");
         area.setAreaDesc("美丽的科技城");
         area.setPriority(0);
         area.setCreateTime(new Date());
