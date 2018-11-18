@@ -28,7 +28,7 @@ public class ShopCategoryDaoTest {
     public void insertTest() throws Exception{
         ShopCategory shopCategory = new ShopCategory();
         shopCategory.setShopCategoryName("海鲜");
-        shopCategory.setShopCategoryDesc("海鲜测试");
+        shopCategory.setShopCategoryDesc("胡林峰海鲜测试");
         shopCategory.setPriority(2);
         shopCategory.setCreateTime(new Date());
         shopCategory.setParentId(2L);
