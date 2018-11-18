@@ -12,6 +12,7 @@ public class DESUtilsTest {
 
     @Test
     public void getEncryptString() {
+        System.out.print("不要了");
     }
 
     @Test
